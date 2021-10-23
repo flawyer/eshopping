@@ -417,6 +417,10 @@ td img{
 td:last-child{
     text-align: right;
 }
-ths:last-child{
+th:last-child{
     text-align: right;
+}
+.left-p{
+    display: flex;
+    justify-content: flex-end;
 }
